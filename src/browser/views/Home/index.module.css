@@ -1,0 +1,17 @@
+.homeContainer {
+  align-items: center;
+  /* background-color: white; */
+  margin-top: 16.7vw;
+}
+
+.homeTitle {
+  font-size: 45rpx;
+  font-weight: bold;
+  margin: 20rpx 0;
+}
+
+.homeInfo {
+  font-size: 36rpx;
+  margin: 8rpx 0;
+  color: #555;
+}
